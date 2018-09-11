@@ -3,9 +3,13 @@
 
 # 开始
 1. 下载代码   
-`git clone https://github.com/lIAn0110/mpvue-demo.git`
+`
+git clone https://github.com/lIAn0110/mpvue-demo.git
+`
 2. 安装项目依赖   
-`npm install`
+`
+npm install
+`
 
 # 预览
 使用[微信开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)，把mpvue-demo/dist目录添加进去就可以预览了。
