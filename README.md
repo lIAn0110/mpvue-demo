@@ -3,8 +3,8 @@
 
 # 开始
 1. 下载代码   
-`
-git clone https://github.com/lIAn0110/mpvue-demo.git
+`  
+git clone https://github.com/lIAn0110/mpvue-demo.git  
 `
 2. 安装项目依赖   
 `
