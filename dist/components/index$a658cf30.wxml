@@ -1,0 +1,5 @@
+<template name="index$a658cf30">
+  <view class="_div data-v-00858838 container">
+    <i-button type="success" class="_i-button data-v-00858838">iView-weapp中的按钮组件</i-button>
+  </view>
+</template>
